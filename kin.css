@@ -1,0 +1,254 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5;
+   /* font-family: 'Playfair Display', serif; */
+}
+/* Navbar page*/
+.nav-data {
+    float:right;
+    text-align: center;
+    padding: 45px;
+}
+.nav-data li {
+display: inline-block;
+padding-left: 20px;
+/* font-style: italic; */
+font-size: 25px;
+}
+
+.nav-img {
+    padding: 50px;
+}
+.nav-page {
+    background-color: blueviolet;
+    text-decoration: none;
+}
+.nav-data a {
+    color: white;
+    font-size: medium;
+}
+.nav-data a:hover {
+    color:green;
+    text-decoration: none;
+}
+
+/* Page-1  */
+.page-1 {
+    background-color: blueviolet;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.heading-p1 {
+    color: white;
+    font-weight: bolder;
+}
+.page-1 p {
+    color: white;
+    font-size: large;
+}
+/* .page-1 button  */
+.app-btn
+ {
+    color: white;
+    background-color:orchid;
+    height: 70px;
+    width: 180px;
+    font-size: large;
+    border: none;
+}
+.page-1A {
+    padding:50px;
+}
+.page-1B video {
+    width: 600px;
+    height: auto;
+}
+
+/* Page-2  & page-4 both same margin  */
+
+.page-2 {
+    padding:200px 40px;
+}
+.page-2A  {
+    padding:30px
+}
+.page-2A p {
+    font-size: 16px;
+    font-weight: lighter;
+}
+.page-2A h1 {
+    font-weight: bolder;
+    font-size: 48px;
+    margin-bottom: 20px;
+}
+.img-side {
+    width: 150px;
+    height: 300px;
+}
+.img-middle {
+    width: 180px;
+    height: 400px;
+}
+.page-2B li {
+    display: inline;
+    padding: 20px;
+}
+.page-2B, .page-3B {
+    text-align: center;
+}
+
+/* Page-3  */
+.page-3B li {
+    display: inline;
+    padding: 10px;
+}
+.page-3A {
+    padding: 80px;
+}
+.page-2A h1 {
+    font-weight: bolder;
+    font-size: 48px;
+    margin-bottom: 20px;
+}
+.page-3A h1 {
+    font-weight: bolder;
+    font-size: 48px;
+    margin-bottom: 20px;
+}
+/* ultimate-page*/
+.ultimate-page {
+    padding:30px 30px;
+}
+.ultimate-heading h1 {
+    font-size: 46px;
+    font-weight: bolder;
+}
+.ultimate-heading {
+    padding-left: 50px;
+}
+.ultimate-p p{
+    font-size: 17px;
+    padding-right: 70px;
+}
+
+/* Build  & Experience page  */
+
+.build-page {
+    background-color:#cf0642;
+    padding: 50px;
+    margin-bottom:100px;
+    margin-top: 150px;
+}
+.build-page h1 {
+    text-align: left;
+    padding-bottom: 10px;
+    padding-top: 80px;
+    font-size: 45px;
+    font-weight: bolder;
+}
+.build-page-A p {
+    font-size: 24px;
+    line-height: 1.6;
+}
+.build-page-A {
+    display: block;
+    background-color:#e3076a;
+    padding:10px 200px 100px 70px;
+}
+.build-btn {
+    height: 70px;
+    width: 180px;
+    font-size: 20px;
+    color: white;
+    background-color: #ed91dc;
+    border: none;
+    margin-top: 50px;
+}
+.build-page {
+    color: white;
+}
+.build-page-B a {
+    color: white;
+    font-size: 24px;
+}
+.IE1 {
+    padding-top: 20px;
+}
+.IE2 {
+    padding-top: 10px;
+}
+.build-page-B {
+    padding-left: 80px;
+}
+/* Grapg Page */
+td {
+    padding:20px;
+    font-size: 20px;
+}
+.table-main {
+    padding-left: 50px;
+}
+.table-main h3 {
+    padding-left: 20px;
+    padding-bottom: 10px;
+}
+#special {
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+}
+.progress-header {
+    padding-left: 50px;
+    font-weight: bold;
+}
+
+/* Story Page */
+
+.story-page {
+    margin-top: 50px;
+    padding: 20px 20px;
+    background-color: blue;
+    color: white;
+}
+.story-pageA {
+    padding: 100px 200px 80px 80px;
+
+}
+.story-pageA h2 {
+    font-size: 45px;
+    font-weight: bolder;
+}
+.story-pageB {
+    background-color: blueviolet;
+    padding: 80px 150px 80px 80px;
+    margin-top: 40px;
+}
+.p-story-page {
+    font-size: 20px;
+    font-weight: 5px;
+}
+.writer-story-page {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+/* Footer Page*/
+
+.footer-page-list a
+ {
+    display: inline;
+    color: black;
+    text-decoration: none;
+}
+.footer-page {
+    padding:80px ;
+    font-size: 17px;
+}
+.footer-icon-list img {
+    width: 40px;
+    padding: 8px;
+    padding-top: 20px;
+}
+.email-box {
+    width: 280px;
+    height: 50px;
+}
